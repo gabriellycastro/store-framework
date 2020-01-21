@@ -6,7 +6,6 @@
       "flex-layout.row"
     ]
   },
-
   "info-card#button-right": {
     "props": {
       "isFullModeStyle": false,
