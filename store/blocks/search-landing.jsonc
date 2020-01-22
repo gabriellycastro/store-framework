@@ -7,9 +7,8 @@
     },
     "image#landingbanner": {
         "props": {
-            "minWidth": 100,
-            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTxyRNqqlplawQEyQbxijlwZ3fykw2DRvxzRwZUKYP8Wmbr44wt"
-
+            "src": "https://www.john-lewis.co.uk/wp-content/uploads/jlh-winchester-04-17-14434-lrc-2500x1304.jpg",
+            "minWidth": "100%"
         }
     },
     "search-result-layout.customQuery": {
