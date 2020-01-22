@@ -19,7 +19,7 @@
       "product-images"
     ]
   },
-  "flex-layout.col#right": {
+  "flex-layout.col#fk": {
     "children": [
       "product-images",
       "product-name",
