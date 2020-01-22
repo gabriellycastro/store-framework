@@ -1,0 +1,23 @@
+{
+    "store.custom#landing": {
+        "blocks": [
+            "image#landingbanner",
+            "search-result-layout.customQuery"
+        ]
+    },
+    "image#landingbanner": {
+        "props": {
+            "minWidth": 100,
+            "imageUrl": "https://www.john-lewis.co.uk/wp-content/uploads/jlh-winchester-04-17-14434-lrc-2500x1304.jpg"
+        }
+    },
+    "search-result-layout.customQuery": {
+        "props": {
+            "orderByField": "OrderByReleaseDateDESC",
+            "hideUnavailableItems": true,
+            "maxItemsPerPage": 8,
+            "queryField": "Blue Top Retro Camera",
+            "mapField": "ft"
+        }
+    }
+}
