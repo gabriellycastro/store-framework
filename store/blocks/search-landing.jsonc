@@ -8,17 +8,19 @@
     "image#landingbanner": {
         "props": {
             "minWidth": 100,
-            "src": "https://www.john-lewis.co.uk/wp-content/uploads/jlh-winchester-04-17-14434-lrc-2500x1304.jpg"
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTxyRNqqlplawQEyQbxijlwZ3fykw2DRvxzRwZUKYP8Wmbr44wt"
 
         }
     },
     "search-result-layout.customQuery": {
         "props": {
-            "orderByField": "OrderByReleaseDateDESC",
-            "hideUnavailableItems": true,
-            "maxItemsPerPage": 8,
-            "queryField": "Blue Top Retro Camera",
-            "mapField": "ft"
+            "querySchema": {
+                "orderByField": "OrderByReleaseDateDESC",
+                "hideUnavailableItems": true,
+                "maxItemsPerPage": 8,
+                "queryField": "Blue Top Retro Camera",
+                "mapField": "ft"
+            }
         }
     }
 }
